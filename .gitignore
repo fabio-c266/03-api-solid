@@ -6,7 +6,3 @@ node_modules
 
 # Vitest
 coverage
-
-# Lock
-yarn.lock
-package-lock.json
