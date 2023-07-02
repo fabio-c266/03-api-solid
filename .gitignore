@@ -1,0 +1,12 @@
+# Dependecies
+node_modules
+
+# Envolvirements
+.env
+
+# Vitest
+coverage
+
+# Lock
+yarn.lock
+package-lock.json
